@@ -1,0 +1,9 @@
+.text-success{
+    color: green;
+}
+
+.whatsapp-icon:hover{
+position: fixed;
+right: 20px;
+bottom: 20px;
+}
